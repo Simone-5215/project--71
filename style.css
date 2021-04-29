@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+#welcome{
+    color: floralwhite;
+    bottom: 0;
+    background:background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(222,175,208,1) 18%, rgba(242,168,236,1) 24%, rgba(132,161,214,1) 100%);
+    
+}
